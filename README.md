@@ -36,7 +36,7 @@ Git • GitHub • VS Code
 Responsive restaurant website built with HTML & CSS.
 
 🔗 [Repository](BURAYA_REPO_LINK)  
-🌍 [Live Demo](BURAYA_LIVE_LINK)
+
 
 ---
 
