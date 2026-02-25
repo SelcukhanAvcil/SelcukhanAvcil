@@ -6,8 +6,7 @@
 
 # Hi, I'm Selcukhan 👋
 
-💻 Frontend-focused Software Developer in training  
-🎓 Fullstack Software Development Program  
+💻 Frontend Developer in Training   
 📍 Vorarlberg, Austria  
 
 ---
@@ -26,7 +25,6 @@
 
 ## 👨‍💻 About Me
 
-Frontend Developer in Training  
 Currently enrolled in a Fullstack Software Development Program (Frontend focus).
 
 Experience with:
