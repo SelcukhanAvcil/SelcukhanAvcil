@@ -22,6 +22,19 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
 </div>
 
+## 👨‍💻 About Me
+
+Frontend Developer in Training  
+Currently enrolled in a Fullstack Software Development Program (Frontend focus).
+
+Experience with:
+- HTML
+- CSS
+
+Currently learning JavaScript fundamentals.
+
+I value structured code and clean, responsive layouts.
+
 ---
 
 ## ⚙️ Tools
