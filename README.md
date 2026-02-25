@@ -37,9 +37,11 @@ I value structured code and clean, responsive layouts.
 
 ---
 
-## ⚙️ Tools
+## ⚙️ Tools & Skills
 
-Git • GitHub • VS Code
+- Git
+- GitHub
+- VS Code
 
 ---
 
