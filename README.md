@@ -31,7 +31,7 @@ Experience with:
 - HTML
 - CSS
 
-Currently learning JavaScript fundamentals.
+Learning JavaScript fundamentals.
 
 I value structured code and clean, responsive layouts.
 
